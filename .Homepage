@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Why Study Genetics?</title>
+        <link rel= "stylesheeet" href= "file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/WhyStudyGenetics.css">     
+        <link rel="stylesheet"  href= "WhyStudyGenetics.css">
+       <style>
+           p.text {
+           font-family: Arial, Helvetica, sans-serif;
+           text-align:left;
+           }
+           
+           p.homeButtonText {
+           font-family: Arial, Helvetica, sans-serif;
+           text-align:right;
+           }
+           body {background-color:lightgreen}
+           h1   {color:green}
+           p    {color:green}
+       </style>
+        
+       <div class="homePage">
+        <h1> It's all about DNA.. or is it?</h1>
+           
+         <div class="homeButton">
+        <div style="text-align:right"><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/HomePageWhyStudyGenetics.html"><img src="http://i68.tinypic.com/w8ugyp.jpg" alt="Homepage Button"height= "50" width= "50"></a></div>  
+        </div>
+        
+		<!--Navigation Bar-->
+		<div align="center">
+			<div class="row">
+				<div class="span12 left-pills ">
+				<ul class="nav nav-pills">
+				<li class="active"><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/Cloning.html">Cloning</a></li>
+				<li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneticMedicine.html">Genetic_Medicine</a></li>
+				<li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/stem.html">STEM</a></li>
+                 <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/GMOinFood.html">GMO_in_Food</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneTherapy.html">Gene_Therapy </a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/dnaFingerprinting.html">DNA_Fingerprinting</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/transgenicOrganism.html">Transgenic_organism</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneticDiscrimination.html">Genetic_Discrimination</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/DNAGeneticTesting.html">DNA/Genetic_Testing</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/DNAOfExtinctOrganisms.html">DNA_of_Extinct_Organisms</a></li>
+                    <li><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/HomePageWhyStudyGenetics.html">HOME</a></li>
+                    
+				</ul>
+			</div>
+		</div>
+		</div>
+        </div>
+            
+    </head>
+    
+    <body>
+        
+       
+        <div style="text-align:center"><a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/Cloning.html"><img src="http://i68.tinypic.com/2a9pe95.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneticMedicine.html"><img src="http://i67.tinypic.com/2uynfp2.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/stem.html"><img src="http://i68.tinypic.com/2wmdl05.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/GMOinFood.html"><img src="http://oi67.tinypic.com/2hrocr6.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneTherapy.html"><img src="http://i66.tinypic.com/347xyew.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/dnaFingerprinting.html"><img src="http://i64.tinypic.com/1z6eeeu.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/transgenicOrganism.html"><img src="http://i64.tinypic.com/hur8k5.jpg" height="200" widith="100"></a>
+         <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/geneticDiscrimination.html"><img src= "http://i66.tinypic.com/1534ppf.jpg" height= "200"width= "100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/DNAGeneticTesting.html"><img src="http://i63.tinypic.com/2wbtg6f.jpg" height="200" widith="100"></a>
+        <a href="file:///home/chronos/u-fbc4d604ffb2bf7bd41d063c3c0a09189fe6d150/Downloads/Biology%20Class/DNAOfExtinctOrganisms.html"><img src="http://i64.tinypic.com/2mnrfvl.jpg" height="200" widith="100"></a>
+        
+        </div>
+        
+    </body>
+
+</html>
